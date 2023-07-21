@@ -27,7 +27,7 @@ function geraPalavraAleatoria(arrayPalavras) {
     return arrayPalavras[indice];
   }
 
-  alert("Bem-vindo ao Jogo da Forca!");
+  alert("Bem-vindo ao melhor Jogo da Forca de todos os tempos!\nCriado pelo melhor professor da face da Terra.");
   
   // PASSO 1 - Gerar a palavra aleatória
   const arrayPalavras = [
