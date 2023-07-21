@@ -26,6 +26,8 @@ function geraPalavraAleatoria(arrayPalavras) {
     const indice = parseInt(Math.random() * arrayPalavras.length);
     return arrayPalavras[indice];
   }
+
+  alert("Bem-vindo ao Jogo da Forca!");
   
   // PASSO 1 - Gerar a palavra aleatória
   const arrayPalavras = [
